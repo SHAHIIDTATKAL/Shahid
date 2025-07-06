@@ -1,3 +1,6 @@
-{
-  "notice": "<div style='background-color: #ffffff; border-radius: 8px; display: flex; align-items: center; font-family: Arial, sans-serif; height: 32px; padding: 0 10px; border: 1px solid #ccc;'><span style='color: #388E3C; font-weight: bold; margin-right: 12px; font-size: 14px;'>NEWS</span><span style='color: #388E3C; font-weight: bold; font-size: 13px;'>: - PLEASE USE EDGE BROWSER & FORM SAVE KARE TO BROWSER HISTORY CLEAR KAR KE </span></div>"
-}
+<div style="background:#fff;border-radius:8px;display:flex;align-items:center;font-family:Arial,sans-serif;height:32px;padding:0 10px;border:1px solid #ccc;">
+  <span style="color:#388E3C;font-weight:bold;margin-right:12px;font-size:14px;">NEWS</span>
+  <span style="color:#388E3C;font-weight:bold;font-size:13px;">
+    : - PLEASE USE EDGE BROWSER &amp; FORM SAVE KARE TO BROWSER HISTORY CLEAR KAR KE
+  </span>
+</div>
